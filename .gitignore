@@ -1,0 +1,9 @@
+# 个人 Keil UI 配置文件
+*.Liam Sho
+
+# Keil 编译生成文件
+*/Objects
+*/Listings
+
+# vscode 配置文件
+*/.vscode
