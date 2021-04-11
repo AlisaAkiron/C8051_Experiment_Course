@@ -18,11 +18,11 @@
 
 代码编辑器：Visual Studio Code （配合 Keil Assistant 插件和 C/C++ 系列插件）（ Keil的这个编辑器有够垃圾的 ）
 
-程序下载：学校的板子 用的 `U-EC6C8051F` 仿真器，可以用 `Silicon Laboratories FLASH Programming Utilities` 下载程序，需要先使用 Keil 编译出 `.hex` 文件，然后将其下载进单片机
+程序下载：学校的板子 用的 `U-EC6C8051F` 仿真器，可以用 [`Silicon Laboratories FLASH Programming Utilities`](https://www.silabs.com/documents/login/software/utildll.exe) 下载程序，需要先使用 Keil 编译出 `.hex` 文件，然后将其下载进单片机
 
 ***关于程序下载***
 
-如果是学校的板子带一个 `EC-6` 的，用下载器时 `Debug Interface` 选择 `JTAG` ，然后点 `Connect` 应该就能连上了
+如果是学校的板子带一个 EC-6 的，用下载器时 `Debug Interface` 选择 `JTAG` ，然后点 `Connect` 应该就能连上了
 
 切换到 `Download Hex File/Go/Stop` 标签，先选择一个 `.hex` 文件，然后下载即可，下载完后点 `Go` 开始运行
 
