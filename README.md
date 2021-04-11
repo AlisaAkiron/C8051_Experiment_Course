@@ -26,4 +26,8 @@
 
 切换到 `Download Hex File/Go/Stop` 标签，先选择一个 `.hex` 文件，然后下载即可，下载完后点 `Go` 开始运行
 
-切换到 `Flash Erase` 标签，可以清除单片机上的所有代码段
+切换到 `Flash Erase` 标签，可以清除单片机上的所有代码
+
+## 许可证
+
+本仓库使用 [DO WHAT THE F**K YOU WANT TO PUBLIC LICENSE(WTFPL, 你TM爱干啥干啥)](./LICENSE) 许可证授权
